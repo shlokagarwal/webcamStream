@@ -15,4 +15,11 @@ python3 app.py
 ## Now get your lan ip address, open the browser and type the follwing URL
 
 http://{your_local_ip}:5000/
+(this is a must if you want to access your feed from a different computer)
+OR
+
+http://0.0.0.0:5000/
+
+
+## 
 
